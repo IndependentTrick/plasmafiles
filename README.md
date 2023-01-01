@@ -10,8 +10,12 @@
 * GTK3 Theme: [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
 ## Install Themes:
 > You can move the latte dock theme to ~/.config/latte/ and the plasma theme to ~/.local/share/plasma/desktoptheme/
+## Specific Settings:
+> Removed all window buttons from window decoration.
 
-Credits: 
+> Put empty Plasma panel on the top so windows don't collide in Wayland.
+
+## Credits: 
 * PapirusDevelopmentTeam and doncsugar for their beautiful Plasma themes and icons.
 * Timothee Glet for the wallpaper.
 .
