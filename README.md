@@ -14,6 +14,10 @@
 3. Window Buttons
 4. Window Title
 5. Compact ShutDown
+* Desktop Effects:
+1. Magic Lamp
+2. Wobbly Windows
+3. Hexagon[Burn-My-Windows]
 
 ## Install Themes:
 > You can move the latte dock theme to ~/.config/latte/ and the plasma theme to ~/.local/share/plasma/desktoptheme/
@@ -24,7 +28,7 @@
 
 > Added ClearClock widget on the wallpaper
 
+>Installed and enabled Hexagon [Burn-my-Windows]
 ## Credits: 
 * PapirusDevelopmentTeam and doncsugar for their beautiful Plasma themes and icons.
 * Timothee Glet for the wallpaper.
-.
