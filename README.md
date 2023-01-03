@@ -1,4 +1,4 @@
-# Make your KDE Plasma look beautiful![rice](https://user-images.githubusercontent.com/117046865/210187462-aa1a0964-a36d-4af1-b12a-35c5b5e7c6bf.png)
+# Make your KDE Plasma look beautiful![rice](images/rice.png)
 ## Info: 
 * Dock/Panel: KDE Plasma Empty Panel and Latte Dock (theme found in this repository)
 * Application Style: [Lightly](https://github.com/Luwx/Lightly)
@@ -27,6 +27,8 @@
 > Put empty Plasma panel on the top so windows don't collide in Wayland.
 
 > Added ClearClock widget on the wallpaper
+
+>Changed application launcher icon to search in icon theme.
 
 >Installed and enabled Hexagon [Burn-my-Windows]
 ## Credits: 
