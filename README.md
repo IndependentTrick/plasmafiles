@@ -20,7 +20,7 @@
 3. Hexagon[Burn-My-Windows]
 
 ## Install Themes:
-> You can move the latte dock theme to ~/.config/latte/ and the plasma theme to ~/.local/share/plasma/desktoptheme/
+> You can move the latte dock theme to ~/.config/latte/ and the plasma theme to ~/.local/share/plasma/desktoptheme/. If you have [Gradience](https://flathub.org/apps/details/com.github.GradienceTeam.Gradience) installed, you can click on the paintbrush in Gradience and import the preset color scheme.
 ## Specific Settings:
 > Removed all window buttons from window decoration.
 
